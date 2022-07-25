@@ -1,4 +1,0 @@
-#EXTM3U
-#EXTINF:108,HLS
-#EXTVLCOPT:network-caching=1000 tvg-logo="https://images.pluto.tv/channels/60492d5522166000071a73c8/colorLogoPNG.png" ,Telefe
-https://mitelefe.com/Api/Videos/GetSourceUrl/694564/0/HLS
